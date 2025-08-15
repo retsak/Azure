@@ -30,8 +30,7 @@ Portal (recommended):
 Notes:
 
 - DCR custom log stream name convention is usually `<TableName>`, e.g. ServiceNowSample will result in `ServiceNowSample_CL`.
-- If you data does not contain a time generated column extend it with: source
-| extend TimeGenerated = todatetime(now())
+- If you data does not contain a time generated column extend it with: `source | extend TimeGenerated = todatetime(now())`
 
 ## Step 2 — Confirm the DCR and stream mapping
 
