@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "2b7a4a0e-78ad-4a59-9d53-3c7f1e2c9b11",
+    "ManagedDeviceId": "a1b2c3d4-0000-1111-2222-333344445555",
+    "Manufacturer": "Contoso",
+    "Model": "ProBook 450 G8",
+    "SerialNumber": "CNU1234567",
+    "AzureActiveDirectoryDeviceId": "6dd84d2c-3f9a-4d21-96b8-1f2e4b6a9c01",
+    "GroupTag": "Finance"
+  },
+  {
+    "Id": "9c1f2d3e-4b5a-6c7d-8e9f-0a1b2c3d4e5f",
+    "ManagedDeviceId": "55554444-3333-2222-1111-0000d4c3b2a1",
+    "Manufacturer": "Fabrikam",
+    "Model": "Latitude 7420",
+    "SerialNumber": "FBR9876543",
+    "AzureActiveDirectoryDeviceId": "a0b1c2d3-e4f5-6789-abcd-ef0123456789",
+    "GroupTag": "Engineering"
+  }
+]
